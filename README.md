@@ -1,13 +1,14 @@
 # Team Vertex - Sykaa © 2022
 We are few, yet a passionate few who enjoy creating solutions to help people around the world. We are the working to build a foundation where developers all around the world can collaborate and work together.
 
-### Vision
+### - Vision
 Keeping our mission in mind, we will bring a transformation in the life of tech enthusiast and take the idea of education to another level.
 
-### Respect for eachothers' work 
+### - Respect for eachothers' work 
 Our best work is created when we trust one another, embrace our diversity, value abilities and contribution of each person.
 
-### Never ending journey
+### - Never ending journey
 We are committed to move forward no matter what. We are agile and stop at nothing.
 
-#### Sykaa Platforms Authored ©
+#### - Sykaa Platforms Authored ©
+[Sykaa.me]:http://sykaa.me
