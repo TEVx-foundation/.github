@@ -12,8 +12,8 @@ We are committed to move forward no matter what. We are agile and stop at nothin
 
 ## - Partners
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/partners/Sykaa-logo.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/partners/Sykaa-logo.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="/profile/assets/partners/Sykaa-logo.png">
+  <source media="(prefers-color-scheme: light)" srcset="/profile/assets/partners/Sykaa-logo.jpg">
   <img alt="Sykaa Platforms 2022">
 </picture>
 
