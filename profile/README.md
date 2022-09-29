@@ -10,5 +10,12 @@ Our best work is created when we trust one another, embrace our diversity, value
 ### - Never ending journey
 We are committed to move forward no matter what. We are agile and stop at nothing. This entire foundation is laid by all the people who wish to add their contribution to TEVX, We are a team together. We are TEVx.
 
+#### - Partners
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/partners/Sykaa-logo.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/partners/Sykaa-logo.jpg">
+  <img alt="Sykaa Platforms 2022">
+</picture>
+
 #### - Sykaa Platforms Authored ©
 * <http://sykaa.me/>
