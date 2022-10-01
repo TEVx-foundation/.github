@@ -18,4 +18,4 @@ We are committed to moving forward no matter what. We are agile and stop at noth
 </picture>
 
 #### - Sykaa Platforms Authored ©
-* <http://sykaa.me/>
+* <https://sykaa.me/>
